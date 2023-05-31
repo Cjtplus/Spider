@@ -1,0 +1,11 @@
+hangye1|staff_num_range|project|item_uuid|icon|province|city|job_num|opentime|detail_url|gw_link
+人工智能||标贝科技|c676b5b640c359cd8b9caccd71e74417|https://img1.qimingpian.cn/uploadImg/202210/6350e1121dac0.jpeg|北京市|北京市|0|2016-02-29|https://profile.qmplink.com/biaobeikeji|http://www.data-baker.com
+装备制造||朗力半导体|28017851bc915c239ae837e6b04d039c|https://img1.qimingpian.cn/uploadImg/202207/62c635ee7c6a1.png|广东省|深圳市|0|2021-03-24|https://profile.qmplink.com/Longsailing|http://www.longsailingsemi.com
+前沿科技|21～99人|维享时空|0a95ac8d751e5fa58720ce0fe5af4e3b|https://img1.qimingpian.cn/uploadImg/202304/642e6251da1b0.png|上海市|上海市|0|2022-09-21|https://profile.qmplink.com/pgverse|https://www.pgverse.io/#/
+消费品制造|0～20人|三浪咖啡豆搬运局|f8e9e6894b105359a5988da401fe8ea7|https://img1.qimingpian.cn/uploadImg/202304/642bc9c4b1a61.jpeg|浙江省|杭州市|0|2014-11-25|https://profile.qmplink.com/bagonlycoffee|
+医药医疗||敏视康医疗|6486e79f6f8c53a4aa18209034338838|https://img1.qimingpian.cn/uploadImg/202304/642aef6808019.jpeg|湖南省|长沙市|0|2019|https://profile.qmplink.com/minshikang|
+交通运输|21～99人|轻出行|a627134430775396a8fc499359a76cf7|https://img1.qimingpian.cn/uploadImg/202207/62c29fdfba865.png|北京市|北京市|0|2021-11-18|https://profile.qmplink.com/qingchuxing|https://www.qingchuxing.com.cn
+人工智能||泊松智能|95727018969150a2bff70138c172abfc|https://img1.qimingpian.cn/uploadImg/202303/6422aa42dbf08.png|浙江省|绍兴市|0|2022-11-28|https://profile.qmplink.com/bosongzhineng|
+企业软件||创智信科|5a2c4d5096cb5ac88426e1718f0dbf3e|https://img1.qimingpian.cn/product/icon1/a7bd7df0a9e4ebf586b3e148b74abee8.jpg|北京市|北京市|0|2003-11-24|https://profile.qmplink.com/czxk|http://www.mcu32.com
+||氢璞创能|46c5d264468954a5a74dc41ec3baf227|https://img1.qimingpian.cn/uploadImg/202004/5e869d3bc47c2.png|北京市|北京市|0|2010-11-15|https://profile.qmplink.com/qpcn|http://www.nowogen.com
+能源||泓慧能源|191cff6a816f5ca6a592dd5381354b83|https://img1.qimingpian.cn/product/raw/d64492147c981310f0ac77d71f82c314.jpg|北京市|北京市|0|2015-04-14|https://profile.qmplink.com/hhny|http://www.honghuienergy.com/

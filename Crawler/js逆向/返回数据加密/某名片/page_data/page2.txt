@@ -1,0 +1,21 @@
+hangye1|staff_num_range|project|item_uuid|icon|province|city|job_num|opentime|detail_url|gw_link
+企业软件||原语科技|61a0ad3f17ba5a8d83f4e821ccfb557d|https://img1.qimingpian.cn/uploadImg/202205/6276090a8ca26.png|北京市|北京市|0|2021-09-01|https://profile.qmplink.com/primihub|https://primihub.com/
+企业软件||摸象科技|756ebd99d322543ebdd6d3cf54706e7b|https://img1.qimingpian.cn/uploadImg/202106/60d15bcc22ed0.png|浙江省|杭州市|0|2007-03-30|https://profile.qmplink.com/mjoys|http://www.mjoys.com
+能源||未来氢能|a5be82c924c451768ca3ffe852c027ae|https://img1.qimingpian.cn/uploadImg/202304/64488015db427.png|北京市|北京市|0|2021-05-18|https://profile.qmplink.com/futureHbonEnergy|
+金融||藕舫创投|ae28bf70ec785ddfb60e9bdb4bf53fd4|https://img1.qimingpian.cn/uploadImg/202304/64487c83148ca.png|浙江省|杭州市|0|2018-03-20|https://profile.qmplink.com/oufangcapital|https://img1.qimingpian.cn/uploadImg/202304/64487c83148ca.png
+能源||俭谦科技|0dab99f1e65a5e058d294267b7ffb8bf|https://img1.qimingpian.cn/uploadImg/202303/640e8b5b48b57.jpeg|浙江省|杭州市|0|2018-08-10|https://profile.qmplink.com/jianqian|
+金融|21～99人|雪见资本|bbb79d819e7e5a73a43c783efc694513|https://img1.qimingpian.cn/uploadImg/202203/623d180277bb7.png|浙江省|杭州市|0|2021|https://profile.qmplink.com/xuejiancapital|
+装备制造||达高特|5496df8d66725258aeb380563732b346|https://img1.qimingpian.cn/uploadImg/202208/630d714264c54.png|四川省|绵阳市|0|2003-05-26|https://profile.qmplink.com/chemtarget|https://www.chemtarget.cn/
+居民服务||惠顾家|230a6088e66a5bef9b32f845f3850728|https://img1.qimingpian.cn/uploadImg/202304/643f6d8f82ce0.jpeg|四川省|成都市|0|2023-01-16|https://profile.qmplink.com/hgujia|
+商务服务|0～20人|YashiSolution|ee47e5ea6608501780dfd8c15a62a910|https://img1.qimingpian.cn/uploadImg/202304/643f53f59a94d.png|浙江省|杭州市|0|2020-01-13|https://profile.qmplink.com/Yashisolution|https://www.yashisoft.com/industry.html
+住宿餐饮|21～99人|肥佬广|aad7f5d5001257d4bb2b03646c16b827|https://img1.qimingpian.cn/uploadImg/202304/643c20c81055a.jpeg|辽宁省|沈阳市|0|2022-03-16|https://profile.qmplink.com/feilaoguang|http://www.feilaoguang.com/
+互联网||SMAPET智慧贝蒂|ba74c20aaa855fd0b02ff89dd77b3e8f|https://img1.qimingpian.cn/uploadImg/202304/643cedae06cc3.jpeg|上海市|上海市|0|2021-07-30|https://profile.qmplink.com/smapet|
+医药医疗|100～499人|瑞贝斯药业|92142712654353d895ffdb7fbbc74e68|https://img1.qimingpian.cn/uploadImg/202304/643cb99378fa4.jpeg|广东省|广州市|0|2014|https://profile.qmplink.com/RBSPH|
+教育||锐师教育|2a0582f74b965ad0a52ee8c80870dd15|https://img1.qimingpian.cn/uploadImg/202304/64375705d04f4.png|上海市|上海市|0|2017-03-15|https://profile.qmplink.com/ruishiedu|
+互联网||拼拼魔|5c2c6b84b50b50b5b563db90c038fd16|https://img1.qimingpian.cn/uploadImg/202304/6436582a88194.png|浙江省|绍兴市|0|2020-08-19|https://profile.qmplink.com/pinpinmo|
+教育||汉大国际中文平台|6a12e7c842aa5970bb1e9f60d7f85c3a|https://img1.qimingpian.cn/uploadImg/202304/6436476cd13fc.png|广东省|深圳市|0|2022-08-08|https://profile.qmplink.com/51chinese|
+互联网|0～20人|Unistory •优映|280c5801db8d5f1897eb358eb47fe3f8|https://img1.qimingpian.cn/uploadImg/202304/6436246593b97.png|山东省|济南市|0|2022|https://profile.qmplink.com/unistory|https://unistory.cn/
+互联网|100～499人|Mocasa|7d197c7955a75f8da5e5d5531997e206|https://img1.qimingpian.cn/uploadImg/202206/62bd939390f51.png|上海市|上海市|0|2021-01-01|https://profile.qmplink.com/mocasa|https://www.mocasa.com/
+金融||驼驼数科|0cc80b5aee1c5b3881fa87788746a5b5|https://img1.qimingpian.cn/uploadImg/202207/62e205f959955.png|北京市|北京市|0|2020-05-22|https://profile.qmplink.com/tuotuodigital|https://www.tuotuodigital.com/
+居民服务||依衣科技|10bcf47284eb58b2bdedbdccbe9c2688|https://img1.qimingpian.cn/uploadImg/202304/6433cc6c844d5.png|江苏省|宿迁市|0|2021-05-20|https://profile.qmplink.com/yiyixihu|http://www.yiyixihu.cn/
+互联网|0～20人|房知了|b76b63a1607555ab9ea45740d853aec8|https://img1.qimingpian.cn/uploadImg/202304/64351d70691f1.jpg|河北省|石家庄市|0|2023-03-10|https://profile.qmplink.com/fangzhiliao|https://www.fangzhiliao.com
